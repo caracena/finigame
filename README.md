@@ -9,10 +9,6 @@ Landing page estática de Fini Game (réplica de https://finanzaschile.cl/fini-g
 
 Settings → Pages → Source: *Deploy from a branch* → `main` / `/ (root)`.
 
-## Link de Google Play
-
-Los botones de descarga usan la clase `js-play-link`. Reemplaza su `href` en `index.html` por el link público de la app en Google Play.
-
 ## Ver en local
 
 ```bash
